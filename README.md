@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/profile-banner.svg" alt="DeGe — projeto Barber Manager" width="100%" />
+</div>
 
-<!--
-**DeGe7/DeGe7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, eu sou DeGe
 
-Here are some ideas to get you started:
+Estou construindo o **Barber Manager**, um sistema de gestão para barbearias, salões e negócios de prótese capilar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projeto em destaque
+
+**[Barber Manager](https://github.com/DeGe7/Barber-Manager)** reúne ferramentas para organizar:
+
+- Atendimentos e agenda
+- Clientes, equipe e permissões por cargo
+- Produtos e estoque
+- Planos, assinantes e mensalidades
+- Financeiro e relatórios
+
+### Stack do projeto
+
+`React` · `TypeScript` · `Vite` · `Supabase` · `PostgreSQL` · `Playwright`
+
+<div align="center">
+  <a href="https://github.com/DeGe7/Barber-Manager">Conheça o Barber Manager</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/DeGe7">Veja meus repositórios</a>
+</div>
