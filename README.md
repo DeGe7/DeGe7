@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="DeGe — Beauty Manager" width="100%" />
+  <img src="./assets/profile-banner.gif" alt="Banner animado DeGe — Beauty Manager" width="100%" />
+  <p><sub><a href="./assets/profile-banner.svg">Ver versão estática</a></sub></p>
   <p><strong>Projetos digitais em construção</strong><br />Foco atual em experiências web e ferramentas para negócios de beleza.</p>
 </div>
 
